@@ -1,0 +1,35 @@
+# 二进制文件
+*.exe
+*.dll
+*.so
+*.dylib
+
+# 构建目录
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# IDE文件
+.vs/
+.vscode/
+*.vcxproj.user
+*.sln.docstates
+
+# 编译输出
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# 临时文件
+*.tmp
+*.temp
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
